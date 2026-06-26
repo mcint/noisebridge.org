@@ -32,12 +32,17 @@ Files: `index.html` (one page), `style.css`. GitHub-Pages-ready as-is.
 
 ## Contributing
 
-Pick a hole and fill it. Bring proposals and disagreements to the Noisebridge
-[wiki](https://www.noisebridge.net/) and the open proposal process — the site is meant
-to be added to in the open. A concern not adopted for `noisebridge.org` may fit the
-community (`.net`) or tech (`.io`) side better.
+This site is built to be **added to by others**. Pick a marked hole and fill it — open
+an issue (no code needed) or a pull request (plain HTML/CSS, no build step). See
+[CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+Bigger proposals about what the site says or does go to the Noisebridge
+[wiki](https://www.noisebridge.net/) and the open proposal process, so they're decided
+in the open. A concern not adopted for `noisebridge.org` may fit the community (`.net`)
+or tech (`.io`) side better.
 
 ## Destination
 
-This repo is intended for the Noisebridge GitHub org. **No remote is configured yet —
-don't push until v0.1 is ready to be declared publicly.**
+This repo is intended for the Noisebridge GitHub org. During early drafting it lives on
+a maintainer's GitHub; it moves to the Noisebridge org once **v0.1** is ready to declare
+openly.
